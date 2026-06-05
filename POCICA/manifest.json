@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Guard Anti Judol - POCICO",
+  "version": "1.0",
+  "description": "Dibuat oleh Staff POCICO untuk melindungi Gen Z Desa POCICO dari judi online",
+  "permissions": ["declarativeNetRequest", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "POCICO Guard Aktif"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "slot", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "judol", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "togel", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "gacor", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "pragmatic", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "zeus", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "deditoto", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "slot%20gacor", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "link%20terbaru", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "mafia%20angka", "resourceTypes": ["main_frame"]}
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {"type": "redirect", "redirect": {"extensionPath": "/edukasi.html"}},
+    "condition": {"urlFilter": "casino", "resourceTypes": ["main_frame"]}
+  }
+]
